@@ -43,7 +43,7 @@ which represents the camera pose with respect to the robot base frame.
 | `solver.py`      | Computes the final eye-to-hand calibration and generates `T_cam2base.npy`. |
 | `T_cam2base.npy` | Saved camera-to-base transformation matrix.                                |
 
-### Calibration Targets
+### Calibration Targets (In Folder `Board`)
 
 | File                                     | Description                                            |
 | ---------------------------------------- | ------------------------------------------------------ |
